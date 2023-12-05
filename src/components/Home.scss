@@ -1,0 +1,27 @@
+.searchDiv{
+    display:flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.okvir{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: gray;
+    row-gap: 20px;
+    gap: 20px;
+    padding: 40px 0;
+}
+
+.cart{
+    background-color: white;
+    border-radius: 15px;
+}
+.image{
+    border-radius: 15px 15px 0 0;
+}
+.name{
+    margin-left: 16px;
+    font-weight: bold;
+}
